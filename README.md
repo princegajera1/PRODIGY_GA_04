@@ -4,7 +4,7 @@
 Image Translation API with Flask
 
 
-
+![image](https://github.com/princegajera1/PRODIGY_GA_04/blob/dc839aac328fbea2b8ab2594614a8c84aae61615/Screenshot%202025-07-11%20093108.png)
 This project provides a simple Flask-based backend that allows you to translate an image based on instructions using the Hugging Face Inference API. It specifically utilizes the timbrooks/instruct-pix2pix model, which can edit images based on text commands.
 
 Features
